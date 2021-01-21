@@ -23,7 +23,7 @@
     "path": "^0.12.7",
     "pino": "^5.13.2",
     "pino-pretty": "^3.2.0",
-    "socket.io": "^2.2.0"
+    "socket.io": "^2.4.0"
   },
   "devDependencies": {
     "@babel/core": "^7.5.5",
